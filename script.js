@@ -203,7 +203,7 @@ class App extends React.Component {
   
         React.createElement("div", { class: "category" },
           React.createElement("div", { class: "title" },
-            React.createElement("h3", null, "Made For curious_coder"),
+            React.createElement("h3", null, "Made For you"),
             React.createElement("a", { href: "#" }, "SEE ALL")),
   
           React.createElement("div", null,
